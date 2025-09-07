@@ -1,1 +1,1 @@
-# stochastic-differential-equations-finance
+# Stochastic Differential Equations Finance
